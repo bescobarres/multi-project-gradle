@@ -1,0 +1,6 @@
+rootProject.name = 'hello-world'
+
+include 'greeting-library'
+include 'greeter'
+include 'docs'
+
